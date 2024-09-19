@@ -1,0 +1,8 @@
+scpIn.txt researcherIN.txt dataOut.txt mainOut2.txt
+1
+2
+3
+6
+105
+Marcus Castañeda,791370344,4,B,true
+7

@@ -1,0 +1,15 @@
+SCP-105,"Iris",SAFE,3,false,Conner Hiley,275363218,3,D,true,Marcus Castañeda,791370344,4,B,true
+SCP-133,Instant Hole,SAFE,4,false,Hector Estacio,42903901,4,A,true
+SCP-141,Codex Damnatio,SAFE,2,false,Genaoveva Victoria,703623549,2,A,true
+SCP-176,Observable Time Loop,EUCLID,3,false,Seth Enbody,364440049,3,A,true
+SCP-186,To End All Wars,EUCLID,1,true,Solomon Basilio,14231368,1,D,true
+SCP-265,Black Volga,EUCLID,5,true,VACANT
+SCP-327,Not Found,EUCLID,1,true,Kimberly Madera,586995719,1,D,true
+SCP-340,Viral Rebreather Membrane,SAFE,1,false,Lenel Malik,7569754,1,D,true
+SCP-489,1-555-BUG-BASH,EUCLID,2,true,Ida Finn,909779603,2,C,true
+SCP-607,Dorian the Grey Cat,EUCLID,1,false,Celeste Sanjuan,17708213,1,A,true
+SCP-698,Judgmental Turtle,EUCLID,5,false,Binh Esteban,624876107,5,A,true
+SCP-768,Long-Range Alarm Clock,SAFE,3,true,Jesper Carr,192430489,5,B,true
+SCP-841,Reverse Mirror Voodoo Doll Stick Puppet,SAFE,2,false,Amor Sandrian,299997685,2,A,true
+SCP-936,Fruit of Man,EUCLID,5,true,VACANT
+SCP-969,Brand Mosquito Repellent,EUCLID,2,true,Viven Kartman,780159039,2,C,true

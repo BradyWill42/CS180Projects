@@ -1,0 +1,15 @@
+SCP-105,"Iris",SAFE,3,false
+SCP-133,Instant Hole,SAFE,4,false
+SCP-141,Codex Damnatio,SAFE,2,false
+SCP-176,Observable Time Loop,EUCLID,3,false
+SCP-186,To End All Wars,EUCLID,1,true
+SCP-265,Black Volga,EUCLID,5,true
+SCP-327,Not Found,EUCLID,1,true
+SCP-340,Viral Rebreather Membrane,SAFE,1,false
+SCP-489,1-555-BUG-BASH,EUCLID,2,true
+SCP-607,Dorian the Grey Cat,EUCLID,1,false
+SCP-698,Judgmental Turtle,EUCLID,5,false
+SCP-768,Long-Range Alarm Clock,SAFE,3,true
+SCP-841,Reverse Mirror Voodoo Doll Stick Puppet,SAFE,2,false
+SCP-936,Fruit of Man,EUCLID,5,true
+SCP-969,Brand Mosquito Repellent,EUCLID,2,true
